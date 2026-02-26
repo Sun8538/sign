@@ -1,0 +1,13 @@
+
+*.env
+
+# Virtual Environment & OS
+venv/
+.DS_Store
+
+# Dataset Files
+data/
+neuspell/
+
+__pycache__/
+ChicagoFSWild/
